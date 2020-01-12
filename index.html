@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Basket</title>
+    <link rel="stylesheet" href="css/basket.css">
+    <script src="https://kit.fontawesome.com/72fb194ac7.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="nav">
+        <div class="basket-wrapper">
+            <div class="basket">
+                <a href="#" id="basket-modal"><i class="fas" id="basket-img"></i></a>
+                <div class="basket-value">
+                    <p id="goods-count">Товаров: <span class="count-in">0</span> шт</p>
+                    <p id="money-count">Сумма: 0 руб</p>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="goods-wrapper">
+        <div class="goods">
+            <div class="good">
+                <h3 class="title">Ноутбук #1</h3>
+                <img class="img-item" src="img/good-1.jpeg" alt="crash">
+                <p data-price="2000" class="price">Цена: <span class="price-in">2000</span> руб</p>
+                <p class="info">Год: 2012</p>
+                <div class="btns">
+                    <i class="fas"></i>
+                    <button class="btn">В корзину</button>
+                </div>
+            </div>
+            <div class="good">
+                <h3 class="title">Ноутбук #2</h3>
+                <img class="img-item" src="img/good-2.jpeg" alt="crash">
+                <p data-price="5000" class="price">Цена: <span class="price-in">5000</span> руб</p>
+                <p class="info">Год: 2015</p>
+                <div class="btns">
+                    <i class="fas"></i>
+                    <button class="btn">В корзину</button>
+                </div>
+            </div>
+            <div class="good">
+                <h3 class="title">Ноутбук #3</h3>
+                <img class="img-item" src="img/good-3.jpeg" alt="crash">
+                <p data-price="9000" class="price">Цена: <span class="price-in">9000</span> руб</p>
+                <p class="info">Год: 2019</p>
+                <div class="btns">
+                    <i class="fas"></i>
+                    <button class="btn">В корзину</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-wrapper" id="wrapper-modal">
+        <div class="modal">
+            <a class="close">X</a>
+            <h3 class="title-brakets">Корзина</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Товар</th>
+                        <th>Кол-во</th>
+                    </tr>
+                </thead>
+                <tbody class="table">
+                </tbody>
+            </table>
+            <div class="footer-modal">
+                <p class="price-all">Итоговая цена: <span class="prise-inerr">0</span> рублей</p>
+                <button class="btn-order" onclick="alert(':3')">Оформить заказ</button>
+            </div>
+        </div>
+    </div>
+<script src="js/basket.js"></script>
+</body>
+</html>

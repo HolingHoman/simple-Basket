@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c893e1b4-4361-40ae-bb7f-a74670fb202d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WF59PamnuenDJWSZdDkEwRHQgQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c893e1b4-4361-40ae-bb7f-a74670fb202d" name="Default Changelist" comment="" />
+      <created>1578732350204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578732350204</updated>
+      <workItem from="1578732352757" duration="8380000" />
+      <workItem from="1578820750137" duration="81000" />
+      <workItem from="1578829736321" duration="18289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="1295" width="800" height="678" key="#Web_Browsers" timestamp="1578732640765">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="1295" width="800" height="678" key="#Web_Browsers/1920.1080.1920.1080/0.1080.1920.1080/1920.0.1920.1080@1920.1080.1920.1080" timestamp="1578732640765" />
+    <state x="2613" y="1383" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578734659518">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="1383" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.1080.1920.1080/0.1080.1920.1080/1920.0.1920.1080@1920.1080.1920.1080" timestamp="1578734659518" />
+    <state x="560" y="327" width="908" height="441" key="EditFileWatcherDialog" timestamp="1578820784277">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="327" width="908" height="441" key="EditFileWatcherDialog/-6.-1080.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578820784277" />
+    <state x="2480" y="1416" width="908" height="446" key="EditFileWatcherDialog/1920.1080.1920.1080/0.1080.1920.1080/1920.0.1920.1080@1920.1080.1920.1080" timestamp="1578733751837" />
+    <state x="2727" y="1387" width="424" height="485" key="FileChooserDialogImpl" timestamp="1578732636273">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="2727" y="1387" width="424" height="485" key="FileChooserDialogImpl/1920.1080.1920.1080/0.1080.1920.1080/1920.0.1920.1080@1920.1080.1920.1080" timestamp="1578732636273" />
+    <state x="872" y="197" width="1022" height="731" key="SettingsEditor" timestamp="1578829747339">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="872" y="197" key="SettingsEditor/-6.-1080.1920.1050/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578820813972" />
+    <state x="872" y="197" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050/-6.-1080.1920.1050@0.0.1920.1050" timestamp="1578829747339" />
+    <state x="2792" y="1283" width="1022" height="731" key="SettingsEditor/1920.1080.1920.1080/0.1080.1920.1080/1920.0.1920.1080@1920.1080.1920.1080" timestamp="1578733752958" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578857598848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050/-6.-1080.1920.1050@0.0.1920.1050" timestamp="1578857598848" />
+  </component>
+</project>
